@@ -1,0 +1,25 @@
+h1{
+    color: green;z
+}
+h2{
+    color:red;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.black{
+    background: black
+}
+.left{
+    width: 40%;
+    float: left;
+}
+.right{
+    width: 60%;
+    float: right;
+}
+.web{
+    width: 500px
+}
