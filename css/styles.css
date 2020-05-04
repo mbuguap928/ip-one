@@ -20,6 +20,9 @@ h2{
     width: 60%;
     float: right;
 }
-.web{
-    width: 500px
+.content{
+    width: 1000px;
+}
+img{
+    width: 100%;
 }
