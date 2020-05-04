@@ -26,3 +26,13 @@ h2{
 img{
     width: 100%;
 }
+.web{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    clear: both;
+}
+.size-33{
+    float:left;
+    width: 33.33%
+
+}
