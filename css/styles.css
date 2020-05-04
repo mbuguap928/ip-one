@@ -36,3 +36,9 @@ img{
     width: 33.33%
 
 }
+ul.a{
+    list-style-type: circle;
+}
+ul.b{
+    list-style-type: square;
+}
